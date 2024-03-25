@@ -2,7 +2,7 @@
 
 - I'm Sebastian.
 - 🌱 I’m currently learning web development and fairly new to Git and GitHub.
-- Further I'm doing my first steps in Ubuntu/Linux.
+- Further I'm making my first steps in Ubuntu/Linux.
 
 ![Tux](https://cdn.pixabay.com/photo/2016/04/01/11/18/penguin-1300295_1280.png)
 <!--
